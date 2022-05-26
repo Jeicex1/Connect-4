@@ -1,2 +1,2 @@
 # Connect-4 
-This is a take on connect 4, which is made with python and tkinter
+This version of connect 4 was made using python and tkinter. The premise of the game is to have 4 checkers connected in a row vertically, horizontally, or diagonally. 
